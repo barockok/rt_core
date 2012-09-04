@@ -1,0 +1,2 @@
+class GarudaIndonesia < AirlinesDriver
+end
