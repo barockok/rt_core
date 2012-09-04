@@ -7,8 +7,8 @@ require "rumahtiket/version"
 Gem::Specification.new do |s|
   s.name        = "rumahtiket"
   s.version     = Rumahtiket::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
+  s.authors     = ["TODO: Zidni Mubarock"]
+  s.email       = ["TODO: zidmubarock@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of Rumahtiket."
   s.description = "TODO: Description of Rumahtiket."
