@@ -1,2 +1,0 @@
-class GarudaIndonesia < AirlinesDriver
-end

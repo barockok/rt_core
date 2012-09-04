@@ -1,4 +1,4 @@
 # desc "Explaining what the task does"
-# task :rumahtiket do
+# task :rt_core do
 #   # Task goes here
 # end
