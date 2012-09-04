@@ -7,11 +7,11 @@ require "rt_core/version"
 Gem::Specification.new do |s|
   s.name        = "rt_core"
   s.version     = RtCore::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RtCore."
-  s.description = "TODO: Description of RtCore."
+  s.authors     = ["Zidni Mubarock"]
+  s.email       = ["zidmubarock@gmail.com"]
+  s.homepage    = "http://barockprojects.com"
+  s.summary     = "lorem ipsum"
+  s.description = "hell yeah"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
